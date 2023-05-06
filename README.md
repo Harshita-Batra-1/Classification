@@ -7,7 +7,7 @@
 
 3) ResNet50
 
-4)EfficientNetB0
+4) EfficientNetB0
 
 5) MobileNetV2
 
