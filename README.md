@@ -13,7 +13,7 @@
 
 6) VGG-16
 
-Changing last layer of base model to increase accuracy using sequential
+Changing last layer of base model to increase accuracy using sequential - FINE TUNING
 
 Split data using Keras IDG API
 
